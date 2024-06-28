@@ -40,3 +40,5 @@
 - 🐱 Cat Management System: https://github.com/vvbach/CatManagementSystem
 
 - ⚙️ VS Code extension - Auto compile and launch C++ file with a single button: https://github.com/vvbach/run-cpp-code-ext 
+
+- 🎮 Clone Chrome Dinosaur with more maps and obstacles: https://github.com/vvbach/ChromeDinosaur
