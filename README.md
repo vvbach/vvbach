@@ -1,6 +1,6 @@
 <h2> 📝 About me </h2>
 
-- 👋 My name is Van Viet Bach. I am a 2nd year student from Vietnam at ITMO University.
+- 👋 My name is Van Viet Bach. I am a 3nd year student from Vietnam at ITMO University.
   
 - 💡 Motivated learner with a proactive attitude towards technical challenges. Committed to making a positive impact through collaboration and innovation in future endeavors.
   
